@@ -143,3 +143,24 @@ button.submit-answer {
 button.submit-answer:hover {
   background-color: #218838;
 }
+
+#options {
+  background-color: #f0f0f8;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap:10px;
+}
+
+#options > button {
+ background: #0fffff;
+padding: 10px;
+width: 30%;
+cursor: pointer;
+border: none;
+border-radius: 8px;
+}
+
+#options > button:hover{
+border:1px solid blue;
+}
