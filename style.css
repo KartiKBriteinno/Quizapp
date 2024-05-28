@@ -155,7 +155,7 @@ button.submit-answer:hover {
 #options > button {
  background: #0fffff;
 padding: 10px;
-width: 30%;
+width: 100%;
 cursor: pointer;
 border: none;
 border-radius: 8px;
